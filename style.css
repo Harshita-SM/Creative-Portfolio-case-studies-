@@ -14,7 +14,7 @@ body {
 
 
 header {
-  background: #524e4e;
+  background: red;
   color: #fff;
   padding: 1rem 2rem;
   display: flex;
@@ -42,7 +42,7 @@ nav a:hover {
 #hero {
   text-align: center;
   padding: 4rem 2rem;
-  background: linear-gradient(135deg, #bbb3db, #5f788d);
+  background: linear-gradient(135deg, #bbb3db, orange);
   color: #fff;
 }
 
@@ -78,16 +78,16 @@ h2 {
 }
 
 #about {
-  background-color: #ebc7ab;
+  background-color: yellow;
 }
 #vision {
-  background-color: #aae9ca;
+  background-color: green;
 }
 #projects {
-  background-color: #d8e6ae;
+  background-color: blue;
 }
 #contact {
-  background-color: #c9a1dd;
+  background-color: violet;
 }
 
 .vision-grid {
@@ -141,7 +141,7 @@ h2 {
 
 
 footer {
-  background: #7b5cf4;
+  background: indigo;
   color: #fff;
   text-align: center;
   padding: 1rem;
