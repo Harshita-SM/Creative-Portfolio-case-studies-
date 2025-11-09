@@ -66,7 +66,7 @@ nav a:hover {
   background: #e0e0ff;
 }
 
-/* Section Styling */
+
 section {
   padding: 3rem 2rem;
   text-align: center;
@@ -79,9 +79,10 @@ h2 {
 
 
 .vision-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+
 }
 
 .vision-card {
