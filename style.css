@@ -14,7 +14,7 @@ body {
 
 
 header {
-  background: #f09595;
+  background: #524e4e;
   color: #fff;
   padding: 1rem 2rem;
   display: flex;
@@ -56,7 +56,7 @@ nav a:hover {
   margin-top: 1.2rem;
   padding: 0.7rem 1.4rem;
   background: #fff;
-  color: #5a3ef2;
+  color: #4a494f;
   font-weight: bold;
   border-radius: 25px;
   text-decoration: none;
@@ -75,6 +75,10 @@ section {
 h2 {
   margin-bottom: 1.5rem;
   color: #06050c;
+}
+
+#about {
+  background-color: #6f95b4;
 }
 
 
