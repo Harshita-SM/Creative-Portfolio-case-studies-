@@ -78,9 +78,17 @@ h2 {
 }
 
 #about {
-  background-color: #6f95b4;
+  background-color: #ebc7ab;
 }
-
+#vision {
+  background-color: #aae9ca;
+}
+#projects {
+  background-color: #d8e6ae;
+}
+#contact {
+  background-color: #c9a1dd;
+}
 
 .vision-grid {
     display: grid;
